@@ -5,25 +5,25 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
-    title="Your title here"
-    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada nisi tellus, non imperdiet nisi tempor at."
+    title="Telephony suite for your website"
+    description="Just place the code snippet in your website source code, and you're good to go."
   >
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="Increase conversion"
+      description="Visitors may come and leave if they get confused, unless you give them an instant way to reach out to you. What's better than good old voice? They can just ring you up from your website."
       image="/assets/images/feature.svg"
       imageAlt="First feature alt text"
     />
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="People hate sticky salesmen"
+      description="You visitors will feel more confident to call you because they aren't surrendering their contact details beforehand. It's a good deal for them."
       image="/assets/images/feature2.svg"
       imageAlt="Second feature alt text"
       reverse
     />
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="Take help from your team"
+      description="Everyone in your team will get an account, so that when you're not available, they can answer the calls. And this has the added advantage of being able to attend more calls at the same time."
       image="/assets/images/feature3.svg"
       imageAlt="Third feature alt text"
     />
